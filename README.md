@@ -1,4 +1,4 @@
-# Python-OOPs
+# Python-OOPs-through-pygame
 
 This is a pygame based app illustrating OOPs concepts in python.
 
